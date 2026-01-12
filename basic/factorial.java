@@ -9,6 +9,7 @@ public class factorial {
         }
         System.out.println(ans);
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 }
