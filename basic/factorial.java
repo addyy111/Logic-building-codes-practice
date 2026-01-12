@@ -8,6 +8,7 @@ public class factorial {
             ans *= input--;
         }
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 }
