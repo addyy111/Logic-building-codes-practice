@@ -18,4 +18,4 @@ public class reversenumber {
         System.out.println("Reversed number: " + reverse);
     }
 }
-    
+
